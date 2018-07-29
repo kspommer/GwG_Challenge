@@ -1,0 +1,68 @@
+/* add your CSS here */
+.size_card {
+	margin: 10px;
+	width: 300px;
+	height: 300px;
+	height: 860px;
+}
+
+.card_border{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #D3D3D3;
+	width: 320px;
+	height: 750px;
+	-webkit-box-shadow: 8px 8px 8px 0px rgba(211,211,211,0.25);
+	-moz-box-shadow: 8px 8px 8px 0px rgba(211,211,211,0.25);
+	box-shadow: 8px 8px 8px 0px rgba(211,211,211,0.25);
+}
+
+#fonts {
+	font-size: 20px;
+    font-family: sans-serif, Arial
+}
+
+
+.image {
+	border: solid;
+	border-width: 1px;
+	border-color: #D3D3D3;
+	width: 300px;
+}
+
+.info_border {
+	padding-top: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #D3D3D3;
+	width: 300px;
+}
+
+.interesting {
+	font-size: 12px;
+    font-family: sans-serif, Arial;
+	font-style: italic;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+}
+
+.label {
+	font-weight: bold;
+}
+
+.nobullets {
+	font-size: 12px;
+    font-family: sans-serif, Arial;
+	list-style-type: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+}
+
+.description {
+	font-size: 12px;
+    font-family: sans-serif, Arial;
+	padding-left: 10px;
+	padding-right: 10px;
+}
